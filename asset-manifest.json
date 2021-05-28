@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/threejs-reactjs-globe/static/css/main.dbfd2130.chunk.css",
+    "main.css": "/threejs-reactjs-globe/static/css/main.4da5d62c.chunk.css",
     "main.js": "/threejs-reactjs-globe/static/js/main.784225d7.chunk.js",
     "main.js.map": "/threejs-reactjs-globe/static/js/main.784225d7.chunk.js.map",
     "runtime-main.js": "/threejs-reactjs-globe/static/js/runtime-main.4532484e.js",
@@ -10,7 +10,7 @@
     "static/js/3.6c611ea4.chunk.js": "/threejs-reactjs-globe/static/js/3.6c611ea4.chunk.js",
     "static/js/3.6c611ea4.chunk.js.map": "/threejs-reactjs-globe/static/js/3.6c611ea4.chunk.js.map",
     "index.html": "/threejs-reactjs-globe/index.html",
-    "static/css/main.dbfd2130.chunk.css.map": "/threejs-reactjs-globe/static/css/main.dbfd2130.chunk.css.map",
+    "static/css/main.4da5d62c.chunk.css.map": "/threejs-reactjs-globe/static/css/main.4da5d62c.chunk.css.map",
     "static/js/2.63b1107d.chunk.js.LICENSE.txt": "/threejs-reactjs-globe/static/js/2.63b1107d.chunk.js.LICENSE.txt",
     "static/media/earth_daymap.981cc3e3.jpg": "/threejs-reactjs-globe/static/media/earth_daymap.981cc3e3.jpg",
     "static/media/earth_nightmap.36f11e5e.jpg": "/threejs-reactjs-globe/static/media/earth_nightmap.36f11e5e.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.4532484e.js",
     "static/js/2.63b1107d.chunk.js",
-    "static/css/main.dbfd2130.chunk.css",
+    "static/css/main.4da5d62c.chunk.css",
     "static/js/main.784225d7.chunk.js"
   ]
 }
